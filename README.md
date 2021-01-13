@@ -1,2 +1,2 @@
-# Countries_Challenge
+# Countries Challenge
 A coding challenge
